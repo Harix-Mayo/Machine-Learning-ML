@@ -1,2 +1,2 @@
 # Machine-Learning-ML-
-This repsotory for Machine learning course
+This repsitory is for Machine Learning course
