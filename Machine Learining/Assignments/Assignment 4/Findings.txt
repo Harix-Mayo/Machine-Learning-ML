@@ -1,0 +1,13 @@
+Findings
+
+In image compression by K-Mean K represents no. of colors in compressed image 
+
+By increasing value of K processing time and size of compressed image also increases
+but we can retrieve more information or detail of original image
+
+In order to compress image by K-Mean we need an optimal value of K by which we could retrieve 
+enough information or detail of original image while keeping size of compressed image minimum
+
+we calculate that optimal value of k by Elbow Method
+
+Note: Results are attached 
